@@ -1,4 +1,4 @@
-region_name = "ap-south-1"
+region_name = "us-east-1"
 bucket_name = "techportfolio"
 lambda_name = "increment_visits"
 lambda_initialize_dynamodb_name = "initialize_visits"
